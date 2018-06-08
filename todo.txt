@@ -1,0 +1,5 @@
+mock the HTTP request
+jsonGet method
+array[T]Get method
+Move JSON values into features collection
+Error handle invalid JSON response
